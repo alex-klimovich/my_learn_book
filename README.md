@@ -1,4 +1,7 @@
 ## Python
+### Libs
+- [mock](https://docs.python.org/3.3/library/unittest.mock.html)
+
 ### Django
 - [Django REST framework](http://www.django-rest-framework.org/)
 
