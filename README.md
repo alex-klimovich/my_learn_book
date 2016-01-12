@@ -12,6 +12,7 @@
 - [eve](http://python-eve.org/) - REST API framework
 - [eve - rest api for humans](https://speakerdeck.com/nicola/eve-rest-api-for-humans) - slideshow
 - [Backup of audio from VK with python](http://habrahabr.ru/post/247987/) - article
+- [httpie](http://radek.io/2015/10/20/httpie/) - article (`curl` alternative)
 
 ## Vim
 - [Vundle](https://github.com/VundleVim/Vundle.vim) - plugin manager
