@@ -1,6 +1,7 @@
 ## Python
 ### Libs
 - [mock](https://docs.python.org/3.3/library/unittest.mock.html)
+- smtpd debug server: `python -m smtpd -n -c DebuggingServer localhost:1025`
 
 ### Django
 - [Django REST framework](http://www.django-rest-framework.org/)
