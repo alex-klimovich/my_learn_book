@@ -1,4 +1,4 @@
-## Python
+# Python
 ### Libs
 - [mock](https://docs.python.org/3.3/library/unittest.mock.html)
 - smtpd debug server: `python -m smtpd -n -c DebuggingServer localhost:1025`
@@ -19,13 +19,13 @@
 - [Backup of audio from VK with python](http://habrahabr.ru/post/247987/) - article
 - [httpie](http://radek.io/2015/10/20/httpie/) - article (`curl` alternative)
 
-## Vim
+# Vim
 - [Vundle](https://github.com/VundleVim/Vundle.vim) - plugin manager
 - [AirLine](https://github.com/bling/vim-airline) - plugin
 - [jedi-vim](https://github.com/davidhalter/jedi-vim) - plugin for python
 - [Python-mode](https://github.com/klen/python-mode) - plugin for python
 
-## JavaScript
+# JavaScript
 - [Design patterns](http://www.dofactory.com/javascript/design-patterns) - article
 - [nodejs screencast](http://learn.javascript.ru/nodejs-screencast)
 - [lodash](https://lodash.com/) - utility library 
@@ -42,10 +42,10 @@
 ### Other
 - [ajaxload](http://ajaxload.info/) - loader animation
 
-## RegEx
+# RegEx
 - [regex101.com](https://regex101.com/) - best web service
 
-## SQL
+# SQL
 ### SQLite
 - [SQLite documentation (keywords)](http://www.sqlite.org/lang.html)
 - [SQLiteStudio](http://sqlitestudio.pl/) - croffplatform database manager
