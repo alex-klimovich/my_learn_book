@@ -5,6 +5,7 @@
 - sockets
 - docker with selenium hub/nodes
 - redis / memcached
+- rally API
 
 ### Libs
 - [mock](https://docs.python.org/3.3/library/unittest.mock.html)
