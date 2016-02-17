@@ -2,6 +2,9 @@
 
 ## TODO
 - test smtpd debug server, send/receive email
+- sockets
+- docker with selenium hub/nodes
+- redis / memcached
 
 ### Libs
 - [mock](https://docs.python.org/3.3/library/unittest.mock.html)
