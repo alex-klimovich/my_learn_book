@@ -3,7 +3,7 @@
 ## TODO
 - ~~test smtpd debug server, send/receive email~~
 - sockets
-- docker with selenium hub/nodes
+- ~~docker with selenium hub/nodes~~
 - redis / memcached
 - rally API
 
