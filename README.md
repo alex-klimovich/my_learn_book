@@ -28,6 +28,7 @@
 - [httpie](http://radek.io/2015/10/20/httpie/) - article (`curl` alternative)
 - [Cerberus](http://docs.python-cerberus.org/en/stable/usage.html#basic-usage) (basic usage) -  data validation lib.
 - [redis-py](https://github.com/andymccurdy/redis-py#redis-py),  [Redis in production (habr)](http://habrahabr.ru/post/140893/)
+- [Install python 2.7.11 on xubuntu/mint](http://stackoverflow.com/questions/15640109/installing-python-on-linux-mint)
 
 # Vim
 - [Vundle](https://github.com/VundleVim/Vundle.vim) - plugin manager
