@@ -6,6 +6,7 @@
 - ~~docker with selenium hub/nodes~~
 - redis / memcached
 - rally API
+- study [python patterns](https://github.com/faif/python-patterns)
 
 ### Libs
 - [mock](https://docs.python.org/3.3/library/unittest.mock.html)
