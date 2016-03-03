@@ -7,6 +7,7 @@
 - redis / memcached
 - rally API
 - study [python patterns](https://github.com/faif/python-patterns)
+- bidirectional dictionaries ({key: key})
 
 ### Libs
 - [mock](https://docs.python.org/3.3/library/unittest.mock.html)
