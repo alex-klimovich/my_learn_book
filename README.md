@@ -8,6 +8,8 @@
 - rally API
 - study [python patterns](https://github.com/faif/python-patterns)
 - bidirectional dictionaries ({key: key})
+- [GPFS (habr) part 1](https://habrahabr.ru/company/scalaxy/blog/82997/)
+- [GPFS (habr) part 2](https://habrahabr.ru/company/scalaxy/blog/83353/)
 
 ### Libs
 - [mock](https://docs.python.org/3.3/library/unittest.mock.html)
