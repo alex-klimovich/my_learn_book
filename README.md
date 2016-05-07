@@ -5,7 +5,7 @@
 - sockets
 - ~~docker with selenium hub/nodes~~
 - redis / memcached
-- rally API
+- ~~rally API~~
 - study [python patterns](https://github.com/faif/python-patterns)
 - bidirectional dictionaries ({key: key})
 - [GPFS (habr) part 1](https://habrahabr.ru/company/scalaxy/blog/82997/)
