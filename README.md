@@ -1,5 +1,3 @@
-# Python
-
 ## TODO
 - ~~test smtpd debug server, send/receive email~~
 - sockets
@@ -10,11 +8,15 @@
 - bidirectional dictionaries ({key: key})
 - [GPFS (habr) part 1](https://habrahabr.ru/company/scalaxy/blog/82997/)
 - [GPFS (habr) part 2](https://habrahabr.ru/company/scalaxy/blog/83353/)
+- AutoIt tutorial (find and study)
+- Lua
+- Data analisys with python (course) 
+
+## Python
 
 ### Libs
 - [mock](https://docs.python.org/3.3/library/unittest.mock.html)
 - smtpd debug server: `python -m smtpd -n -c DebuggingServer localhost:1025`; 
-
 
 ### Django
 - [Django REST framework](http://www.django-rest-framework.org/)
@@ -34,13 +36,13 @@
 - [redis-py](https://github.com/andymccurdy/redis-py#redis-py),  [Redis in production (habr)](http://habrahabr.ru/post/140893/)
 - [Install python 2.7.11 on xubuntu/mint](http://stackoverflow.com/questions/15640109/installing-python-on-linux-mint)
 
-# Vim
+## Vim
 - [Vundle](https://github.com/VundleVim/Vundle.vim) - plugin manager
 - [AirLine](https://github.com/bling/vim-airline) - plugin
 - [jedi-vim](https://github.com/davidhalter/jedi-vim) - plugin for python
 - [Python-mode](https://github.com/klen/python-mode) - plugin for python
 
-# JavaScript
+## JavaScript
 - [Design patterns](http://www.dofactory.com/javascript/design-patterns) - article
 - [nodejs screencast](http://learn.javascript.ru/nodejs-screencast)
 - [lodash](https://lodash.com/) - utility library 
@@ -57,10 +59,10 @@
 ### Other
 - [ajaxload](http://ajaxload.info/) - loader animation
 
-# RegEx
+## RegEx
 - [regex101.com](https://regex101.com/) - best web service
 
-# SQL
+## SQL
 ### SQLite
 - [SQLite documentation (keywords)](http://www.sqlite.org/lang.html)
 - [SQLiteStudio](http://sqlitestudio.pl/) - croffplatform database manager
