@@ -9,7 +9,7 @@
 - [GPFS (habr) part 1](https://habrahabr.ru/company/scalaxy/blog/82997/)
 - [GPFS (habr) part 2](https://habrahabr.ru/company/scalaxy/blog/83353/)
 - AutoIt tutorial (find and study)
-- Lua tutorail with LuaDist
+- ~~Lua tutorail with LuaDist~~ [Lua tutorial on youtube.com](https://www.youtube.com/watch?v=iMacxZQMPXs)
 - Data analisys with python (course) 
 
 ## Python
