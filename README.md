@@ -1,15 +1,14 @@
 ## TODO
 - ~~test smtpd debug server, send/receive email~~
-- sockets
 - ~~docker with selenium hub/nodes~~
-- redis / memcached
 - ~~rally API~~
+- sockets
+- redis / memcached
 - study [python patterns](https://github.com/faif/python-patterns)
 - bidirectional dictionaries ({key: key})
 - [GPFS (habr) part 1](https://habrahabr.ru/company/scalaxy/blog/82997/)
 - [GPFS (habr) part 2](https://habrahabr.ru/company/scalaxy/blog/83353/)
 - AutoIt tutorial (find and study)
-- ~~Lua tutorail with LuaDist~~ [Lua tutorial on youtube.com](https://www.youtube.com/watch?v=iMacxZQMPXs)
 - Data analisys with python (course) 
 - GNU Plot (usage)
 
@@ -67,3 +66,6 @@
 ### SQLite
 - [SQLite documentation (keywords)](http://www.sqlite.org/lang.html)
 - [SQLiteStudio](http://sqlitestudio.pl/) - croffplatform database manager
+
+## Lua
+- ~~Lua tutorail with LuaDist~~ [Lua tutorial on youtube.com](https://www.youtube.com/watch?v=iMacxZQMPXs)
