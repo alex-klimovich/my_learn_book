@@ -69,3 +69,6 @@
 
 ## Lua
 - ~~Lua tutorail with LuaDist~~ [Lua tutorial on youtube.com](https://www.youtube.com/watch?v=iMacxZQMPXs)
+
+## C
+- [Study stack implementation](https://learnc.info/adt/stack.html)
